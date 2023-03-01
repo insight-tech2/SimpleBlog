@@ -1,5 +1,5 @@
-# SimpleBlog
-Tailwind css simple Blog for personal use
+
+
 # Simple Blog
 ### Tailwind css simple Blog for personal use
 ## Authors
